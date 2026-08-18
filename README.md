@@ -5,7 +5,7 @@ An AI-powered university lecture assistant built with **LangChain, Gemini, FAISS
 LectureMind AI allows students to upload lecture PDFs, automatically process the content, generate summaries and exam questions, and ask questions using Retrieval-Augmented Generation (RAG).
 
 ---
-🔗 Live Demo: [https://lecturemind-ai.streamlit.app/]
+🔗 Live Demo: [https://lecturemindai.streamlit.app/]
 
 ## ✨ Features
 
