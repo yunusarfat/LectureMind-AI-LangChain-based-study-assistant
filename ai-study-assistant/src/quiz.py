@@ -88,7 +88,7 @@ def generate_mcqs(llm, lecture_text: str, num_questions: int = 5) -> MCQSet:
 
 
 # ---------------------------------------------------------------------
-# 3. THE "TOOL": deterministic scoring, no LLM involved
+# 3. THE "TOOL": deterministic scoring
 # ---------------------------------------------------------------------
 def calculate_topic_performance(
     questions: List[MCQItem], student_answers: List[str]
